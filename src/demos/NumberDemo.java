@@ -34,9 +34,5 @@ public class NumberDemo {
 			System.out.println("iki sayý arkdaþ deðildir");
 		}
 		
-		
- 		
-		
-		
 	}
 }
